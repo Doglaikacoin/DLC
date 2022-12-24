@@ -2,25 +2,25 @@
   "name": "Laikas  #236",
   "description": "Laikas is an exclusive collection of 2222 unique dogs, each with their own special traits, abilities, and roles necessary for a successful exploration mission to the newly discovered planet Aptos. These dogs are part of an exciting exploration team, with roles such as pilots, scientists, engineers, medics,spacecops, militias, diplomats, and operators.\n",
   "image": "https://storage.googleapis.com/nftcollection/5183378/Laikas66/236.png",
-  "dna": "0xcdFdB0d30eDBAeaD1005cDEd8541596cA3768bD3",
+  
   "edition": 236,
   "date": 1671830609027,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Background_2"
+      "value": "Orange"
     },
     {
       "trait_type": "Breeds",
-      "value": "Breeds_15"
+      "value": "Doberman Pinscher"
     },
     {
       "trait_type": "Body",
-      "value": "Body_0"
+      "value": "Raised Ear"
     },
     {
       "trait_type": "Eyes",
-      "value": "Eyes_4"
+      "value": "Amber"
     },
     {
       "trait_type": "Outfits",
